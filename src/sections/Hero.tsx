@@ -97,7 +97,7 @@ export function Hero() {
         </div>
 
         <h1
-          className="display absolute inset-x-0 top-[45svh] z-10 md:top-[56svh] lg:top-[58svh]"
+          className="display absolute inset-x-0 top-[60svh] z-10 md:top-[56svh] lg:top-[58svh]"
           aria-label={profile.name}
         >
           <motion.span
