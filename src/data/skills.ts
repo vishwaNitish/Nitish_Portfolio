@@ -16,12 +16,12 @@ export const skills: SkillGroup[] = [
   },
   { title: 'Databases', items: ['MongoDB', 'MySQL'] },
   {
-    title: 'AI & data',
-    items: ['Gemini API', 'Prompt engineering', 'TF-IDF / NLP basics', 'scikit-learn', 'Pandas', 'Matplotlib', 'Seaborn'],
+    title: 'AI',
+    items: ['Google Gemini', 'Grok', 'Claude', 'ChatGPT', 'DeepSeek', 'Perplexity', 'Prompt engineering'],
   },
   {
     title: 'Tools',
-    items: ['Git', 'GitHub', 'GitHub Actions', 'Postman', 'Figma', 'Axios', 'Docker basics', 'VS Code'],
+    items: ['Git', 'GitHub', 'GitHub Actions', 'Postman', 'Figma', 'Axios', 'VS Code'],
   },
   {
     title: 'Foundations',
